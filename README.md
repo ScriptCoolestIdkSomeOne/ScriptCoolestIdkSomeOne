@@ -2,7 +2,7 @@
 
 ### testing shit
 
-![widget](https://widget-testing-3oboetlof-russey-2623s-projects.vercel.app/api/widget?username=Денис&refresh=1)
+![widget](https://widget-testing-3oboetlof-russey-2623s-projects.vercel.app/api/widget?username=fucker)
 
 ## my shit
 
