@@ -9,7 +9,7 @@
 pie title Procents that i understand something
     "Python" : 12
     "JS" : 23
-    "CPP" : -100
+    "CPP" : 0
     "CS" : 54
     "Blender" : 0
     "Visual Studio Code" : 0
