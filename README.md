@@ -5,7 +5,9 @@
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
 
-в гитхаб профиле работает
+[stlll](cubetester.stl)
+
+### working shit
 
 ```stl
 solid cube_corner
