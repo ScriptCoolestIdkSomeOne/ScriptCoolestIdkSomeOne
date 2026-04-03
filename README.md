@@ -300,3 +300,15 @@ void DisableBluehair() {
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)
+
+
+```mermaid
+journey
+    title my day
+    section day
+      sleep: 5: Me
+      work: 1: Me
+    section night
+      sleep: 1: Me
+      work: 5: Me
+```
