@@ -7,9 +7,9 @@
 
 timeline
     title fucking shit
-    we shitted : after cock
-    we fucked up : before cock
-    we messed up : lol cock
+    242 : after cock
+    243 : before cock
+    244 : lol cock
     
 ### working shit
 
