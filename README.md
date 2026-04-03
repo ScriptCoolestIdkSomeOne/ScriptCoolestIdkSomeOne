@@ -5,11 +5,10 @@
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
 
-timeline
-    title fucking shit
-    242 : after cock
-    243 : before cock
-    244 : lol cock
+packet-beta
+    title fucking shjt
+    0-15: "sheesh"
+    16-31: "fucckk"
     
 ### working shit
 
