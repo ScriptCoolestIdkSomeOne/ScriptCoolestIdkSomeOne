@@ -5,6 +5,8 @@
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
 
+[stlshit](cubetester.stl)
+
 <details>
 
 <summary>TESTING</summary>
