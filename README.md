@@ -4,6 +4,16 @@
 | --- | --- |
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
+
+```mermaid
+pie title Procents that i understand something
+    "Python" : 12
+    "JS" : 23
+    "CPP" : -100
+    "CS" : 54
+    "Blender" : 0
+    "Visual Studio Code" : 0
+```
     
 ```stl
 solid or just 4 blocks
