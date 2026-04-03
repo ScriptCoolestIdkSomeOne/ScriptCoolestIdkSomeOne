@@ -5,13 +5,12 @@
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
 
-gantt
-    title fucing testing
-    section fucking
-    sucking shit :a1, fuck fuck fuck
-    section fucking in the ass
-    fucking :after fuck we fuck
-
+timeline
+    title fucking shit
+    we shitted : after cock
+    we fucked up : before cock
+    we messed up : lol cock
+    
 ### working shit
 
 ```stl
