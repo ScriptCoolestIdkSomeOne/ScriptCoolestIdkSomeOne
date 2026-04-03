@@ -1,6 +1,12 @@
 ## idk hello
 
-### testing shit
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 ![widget](https://widget-testing-3oboetlof-russey-2623s-projects.vercel.app/api/widget?username=fucker)
 
