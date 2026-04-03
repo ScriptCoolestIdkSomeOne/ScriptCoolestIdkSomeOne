@@ -252,7 +252,7 @@ void DisableBluehair() {
 
 </details>
 
-![widget](https://widget-testing-3oboetlof-russey-2623s-projects.vercel.app/api/widget?username=cock&t=1)
+![testing](https://widget-testing-3bhuopq6x-russey-2623s-projects.vercel.app/api/widget?username=cock)
 
 ## my shit
 
