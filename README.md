@@ -5,7 +5,12 @@
 | yes i test this right here | tester thingy |
 | testing shit | more of this |
 
-[stlll](cubetester.stl)
+gantt
+    title fucing testing
+    section fucking
+    sucking shit :a1, fuck fuck fuck
+    section fucking in the ass
+    fucking :after fuck we fuck
 
 ### working shit
 
